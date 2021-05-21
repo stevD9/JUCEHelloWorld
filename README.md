@@ -1,1 +1,1 @@
-"# JUCE Hello World" 
+# JUCE Hello World
